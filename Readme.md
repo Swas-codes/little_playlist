@@ -1,7 +1,7 @@
 # Somewhere Between
 > Some melodies, some stories, one little playlist.
 
-A small music playlist webpage made with **HTML, CSS and JavaScript**, created as a little collection of songs that mean something to me.
+A small music playlist webpage made with **HTML, CSS and JavaScript**, created as a little collection of songs dedicating it to the people who hold a special place in my life.
 The idea was simple — instead of just sharing a list of songs, I wanted to turn them into a small interactive experience.
 
 ## ✦ Features
