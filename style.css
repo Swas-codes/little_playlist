@@ -73,6 +73,10 @@ body{
     font-size: 1.3rem;
     font-weight:normal;
 }
+.singers{
+    font-size:1rem;
+    color:grey;
+}
 .play-btn{
     width:42px;
     height:42px;
